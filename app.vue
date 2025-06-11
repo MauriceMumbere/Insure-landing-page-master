@@ -13,6 +13,10 @@ useHead({
 </script>
 <template>
   <div>
-    <h1 class="text-red-500">Bienvenue sur Insure</h1>
+    <Header />
+    <HeroSection />
+    <OptionSection />
+    <FindWorkSection />
+    <Footer />
   </div>
 </template>
