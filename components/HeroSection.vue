@@ -3,11 +3,15 @@
     class="relative flex flex-col-reverse md:px-[12rem] bg-blue-950 pb-[8rem] text-white"
   >
     <div
-      class="absolute inset-0 bg-[url('./images/bg-pattern-intro-right-mobile.svg')] md:bg-[url('./images/bg-pattern-intro-right-desktop.svg')] bg-no-repeat bg-bottom-right md:bg-top-right md:z-10 pointer-events-none"
+      class="absolute inset-0 md:bg-[url('./images/bg-pattern-intro-right-desktop.svg')] bg-no-repeat bg-bottom-right md:bg-top-right md:z-10 pointer-events-none"
     ></div>
     <div
       class="absolute top-[3rem] md:top-[30rem] md:h-[504px] md:w-[200px] inset-0 bg-[url('./images/bg-pattern-intro-left-mobile.svg')] md:bg-[url('./images/bg-pattern-intro-left-desktop.svg')] bg-no-repeat bg-left md:bg-bottom-left md:z-10 pointer-events-none"
     ></div>
+    <div
+      class="absolute top-[47rem] h-[504px] w-[200px] right-0 bg-[url('./images/bg-pattern-intro-right-mobile.svg')] bg-no-repeat bg-right z-10 pointer-events-none md:bg-none"
+    ></div>
+
     <div
       class="md:pt-[15rem] md:relative z-20 text-center md:text-left px-6 md:px-0"
     >
