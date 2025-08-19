@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-[22rem] px-5 md:px-[12rem]">
+  <section class="pt-[10rem] md:pt-[22rem] px-5 md:px-[12rem]">
     <div>
       <h2
         class="text-5xl md:text-7xl text-center md:text-left font-bold relative text-blue-950 max-w-[34rem] before:content-[''] before:absolute before:top-[-2rem] before:left-1/2 before:-translate-x-1/2 before:h-1 before:w-40 before:bg-black md:before:top-[-5rem] md:before:left-0 md:before:translate-x-0 md:before:w-40"
