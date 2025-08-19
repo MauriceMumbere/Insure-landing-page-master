@@ -45,17 +45,26 @@ const toggleMenu = () => {
         class="flex flex-col items-center text-center md:text-left md:flex-row md:space-x-7 space-y-10 md:space-y-0 p-5 md:p-0"
       >
         <li>
-          <a class="font-bold text-2xl md:font-normal md:text-[1rem]" href="#">
+          <a
+            class="font-bold text-2xl opacity-40 hover:text-blue-950 hover:opacity-100 md:text-[1rem]"
+            href="#"
+          >
             How we work
           </a>
         </li>
         <li>
-          <a class="font-bold text-2xl md:font-normal md:text-[1rem]" href="#">
+          <a
+            class="font-bold text-2xl opacity-40 hover:text-blue-950 hover:opacity-100 md:text-[1rem]"
+            href="#"
+          >
             Blog
           </a>
         </li>
         <li>
-          <a class="font-bold text-2xl md:font-normal md:text-[1rem]" href="#">
+          <a
+            class="font-bold text-2xl opacity-40 hover:text-blue-950 hover:opacity-100 md:text-[1rem]"
+            href="#"
+          >
             Account
           </a>
         </li>
