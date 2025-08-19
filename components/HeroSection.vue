@@ -42,7 +42,11 @@
             srcset="/images/image-intro-mobile.jpg"
             media="(max-width: 768px)"
           />
-          <img src="/images/image-intro-desktop.jpg" alt="Introduction" />
+          <img
+            src="/images/image-intro-desktop.jpg"
+            alt="Introduction"
+            class="w-full md:w-auto h-auto object-cover"
+          />
         </picture>
       </figure>
     </div>
