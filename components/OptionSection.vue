@@ -12,7 +12,10 @@
       >
         <div>
           <div class="flex justify-center md:justify-start">
-            <img src="../public/images/icon-snappy-process.svg" alt="" />
+            <img
+              src="../public/images/icon-snappy-process.svg"
+              alt="icon snappy process"
+            />
           </div>
           <h3 class="pt-8 pb-5 font-bold text-2xl text-blue-950">
             Snappy Process
@@ -24,7 +27,10 @@
         </div>
         <div>
           <div class="flex justify-center md:justify-start">
-            <img src="../public/images/icon-affordable-prices.svg" alt="" />
+            <img
+              src="../public/images/icon-affordable-prices.svg"
+              alt="icon affordable prices"
+            />
           </div>
           <h3 class="pt-8 pb-5 font-bold text-2xl text-blue-950">
             Affordable Prices
@@ -36,7 +42,10 @@
         </div>
         <div>
           <div class="flex justify-center md:justify-start">
-            <img src="../public/images/icon-people-first.svg" alt="" />
+            <img
+              src="../public/images/icon-people-first.svg"
+              alt="icon people first"
+            />
           </div>
           <h3 class="pt-8 pb-5 font-bold text-2xl text-blue-950">
             People First
