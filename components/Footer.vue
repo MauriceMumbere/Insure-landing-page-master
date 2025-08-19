@@ -9,35 +9,37 @@
         <img src="../public/images/logo.svg" alt="Logo" />
       </div>
       <div>
-        <ul class="flex items-center space-x-6">
-          <li class="hover:bg-blue-950">
-            <a class="hover:bg-blue-950" href="#">
-              <img
-                class="hover:bg-blue-950"
-                src="../public/images/icon-facebook.svg"
-                alt="Facebook icon"
-              />
+        <ul class="flex items-center space-x-4">
+          <li>
+            <a
+              href="#"
+              class="flex items-center justify-center w-10 h-10 rounded-full transition-colors duration-300 hover:bg-blue-950"
+            >
+              <img src="/images/icon-facebook.svg" alt="Facebook icon" />
             </a>
           </li>
           <li>
-            <a href="#">
-              <img src="../public/images/icon-twitter.svg" alt="Twitter icon" />
+            <a
+              href="#"
+              class="flex items-center justify-center w-10 h-10 rounded-full transition-colors duration-300 hover:bg-blue-950"
+            >
+              <img src="/images/icon-twitter.svg" alt="Twitter icon" />
             </a>
           </li>
           <li>
-            <a href="#">
-              <img
-                src="../public/images/icon-pinterest.svg"
-                alt="Pinterest icon"
-              />
+            <a
+              href="#"
+              class="flex items-center justify-center w-10 h-10 rounded-full transition-colors duration-300 hover:bg-blue-950"
+            >
+              <img src="/images/icon-pinterest.svg" alt="Pinterest icon" />
             </a>
           </li>
           <li>
-            <a href="#">
-              <img
-                src="../public/images/icon-instagram.svg"
-                alt="Instagram icon"
-              />
+            <a
+              href="#"
+              class="flex items-center justify-center w-10 h-10 rounded-full transition-colors duration-300 hover:bg-blue-950"
+            >
+              <img src="/images/icon-instagram.svg" alt="Instagram icon" />
             </a>
           </li>
         </ul>
