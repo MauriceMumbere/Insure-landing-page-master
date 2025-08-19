@@ -2,10 +2,11 @@
   <section class="pt-[22rem] px-5 md:px-[12rem]">
     <div>
       <h2
-        class="text-5xl md:text-7xl text-center md:text-left font-bold before:content-[''] before:absolute before:top-[-5rem] before:h-1 before:w-40 before:bg-black max-w-[34rem] relative text-blue-950"
+        class="text-5xl md:text-7xl text-center md:text-left font-bold relative text-blue-950 max-w-[34rem] before:content-[''] before:absolute before:top-[-2rem] before:left-1/2 before:-translate-x-1/2 before:h-1 before:w-40 before:bg-black md:before:top-[-5rem] md:before:left-0 md:before:translate-x-0 md:before:w-40"
       >
         We’re different
       </h2>
+
       <div
         class="grid grid-cols-1 text-center md:text-left md:grid-cols-3 gap-[3.2rem] pt-[5rem]"
       >
